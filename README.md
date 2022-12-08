@@ -1,4 +1,4 @@
-# Notes:
+# Times table creator:
 
 this is my first node application
 
@@ -9,4 +9,10 @@ Options:
   -b, --base     Is the base of the times table              [number] [required]
   -l, --list     display table in console                              [boolean]
   -t, --up to    this make up to a specific number           [number] [required]
+```
+
+## Install
+```
+npm i colors
+npm i yargs
 ```
